@@ -150,7 +150,6 @@ TYPHOON_OCR_API_KEY= # API key from https://opentyphoon.ai/model/typhoon-ocr
 RAG_EMBED_MODEL=sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
 ```
 
-> ⚠️ Never commit a `.env` file containing real API keys to a public repository.
 
 **4. Start the local LLM server (Typhoon2.5-Qwen3-4B via llama.cpp)**
 
@@ -190,7 +189,3 @@ The system was evaluated with the **RAGAS** framework on a **150-question** test
 
 <br/>
 
-## 👤 Author
-
-**Krittin (KlaKrittin)** — Software Developer / AI Engineer
-📧 krittin2131@gmail.com · [GitHub](https://github.com/KlaKrittin)
